@@ -12,7 +12,7 @@
 
 ### 步骤
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bclswl0827/v2ray-heroku/tree/vless)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/WizaNoemie/Lss20220121)
 
 ### 变量
 
